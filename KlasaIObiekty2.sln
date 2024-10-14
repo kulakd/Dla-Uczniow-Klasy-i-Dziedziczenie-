@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlasaIObiekty2", "KlasaIObiekty2.csproj", "{13BC075C-0507-4BB0-AA4D-9A2D8084632B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13BC075C-0507-4BB0-AA4D-9A2D8084632B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BC075C-0507-4BB0-AA4D-9A2D8084632B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BC075C-0507-4BB0-AA4D-9A2D8084632B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BC075C-0507-4BB0-AA4D-9A2D8084632B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E75447E2-0BBD-4C14-A561-767C977EF6F0}
+	EndGlobalSection
+EndGlobal
